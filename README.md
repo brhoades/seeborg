@@ -1,5 +1,24 @@
-SeeBorg [![CircleCI](https://circleci.com/gh/hmage/seeborg.svg?style=svg)](https://circleci.com/gh/hmage/seeborg)
+SeeBorg 
 =======
+
+History
+------------------
+Seeborg is an old C++ IRC bot. Originally on Google Code and later ported to GitHub at [hmage/seeborg](https://github.com/hmage/seeborg), it vanished back sometime after 2023.
+
+The [author's site](https://www.hmage.net/seeborg) is still around but I had to dig this code up from archive.org:
+
+https://web.archive.org/web/20230313000609if_/https://codeload.github.com/hmage/seeborg/zip/refs/heads/master
+
+See the old repo:
+
+https://web.archive.org/web/20220928013425/https://github.com/hmage/seeborg
+
+
+Why did I bother? seeborg inspired me. It led to a years long project, [markovirc](https://github.com/linuxmercedes/markovirc) and to a [blog post](https://blog.brod.es/posts/2017-02-20-my-first-markov-chain-bot/) later about markov chains.
+
+
+Original Readme
+------------------
 
 SeeBorg is a random phrase bot based on Markov Chains.
 
